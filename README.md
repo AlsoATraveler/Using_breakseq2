@@ -72,7 +72,7 @@ samtools view: failed to add PG line to the header
 直接vim命令行模式跳转到该位置，再使用编辑模式删除即可
 
 
-
+修改后的文件可以从本项目中下载
 
 
 
